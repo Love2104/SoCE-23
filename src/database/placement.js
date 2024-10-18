@@ -51,6 +51,16 @@ var chats = [
     year: "y22",
   },
   {
+    name: "Miska Singh(Y22)",
+    work: "Accenture AI",
+    text: " Hello everyone! This is Miska Singh, currently working as a Decision Science Analyst at Accenture AI. As a member of the Y22 batch, I specialized in Transportation Engineering.",
+    dp:"placement-postulates/dp/Miska-Singh.jpg",
+    link: "/Miska",
+    thumbnail: "",
+    og: "/Miska",
+    year: "y22",
+  },
+  {
     name: "Ashish (Y19)",
     work: "Tata Projects Limited",
     text: " Hi! This is Ashish, a Y19 BT-CE, currently placed in Tata Projects Limited (TPL). Through this blog, I share my journey from submitting my resume after deadline extension to securing an offer at TPL",
